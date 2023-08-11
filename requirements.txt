@@ -1,4 +1,4 @@
-PyYAML==4.2b1
+PyYAML==5.4
 bcrypt==3.1.7
 black==18.9b0
 environs==4.1.0
