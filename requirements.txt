@@ -8,7 +8,7 @@ rethinkdb==2.3.0.post6
 sawtooth_sdk==1.0.5
 sawtooth_signing==1.0.5
 aiohttp==3.8.5
-sanic==0.8.3
+sanic==20.12.7
 sanic-cors==0.9.7
 protobuf==3.18.3
 requests==2.31.0
